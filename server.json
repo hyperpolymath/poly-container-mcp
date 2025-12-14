@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
   "name": "io.github.hyperpolymath/poly-container-mcp",
   "title": "Polyglot Container MCP",
   "description": "Unified MCP server for container management. FOSS-first: supports nerdctl and podman as primary runtimes, with docker as fallback.",

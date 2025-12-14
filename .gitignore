@@ -38,3 +38,6 @@ temp/
 # Build artifacts
 dist/
 build/
+
+# MCP Registry tokens
+.mcpregistry_*
