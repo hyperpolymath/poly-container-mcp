@@ -13,6 +13,7 @@ LABEL org.opencontainers.image.authors="Jonathan D.A. Jewell"
 LABEL org.opencontainers.image.source="https://github.com/hyperpolymath/polyglot-container-mcp"
 LABEL org.opencontainers.image.licenses="MIT"
 LABEL dev.mcp.server="true"
+LABEL io.modelcontextprotocol.server.name="io.github.hyperpolymath/poly-container-mcp"
 
 # Install Deno
 RUN apk add --no-cache deno ca-certificates
